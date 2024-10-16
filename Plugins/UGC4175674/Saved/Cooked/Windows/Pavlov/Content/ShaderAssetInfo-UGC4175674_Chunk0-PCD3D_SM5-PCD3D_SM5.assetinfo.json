@@ -2,21 +2,27 @@
 	"AssetInfoVersion": 2,
 	"ShaderCodeToAssets": [
 		{
-			"ShaderMapHash": "7B8463E6219B04916842DDA45A137AD574992CDA",
-			"Assets": [
-				"/UGC4175674/gavkips_WaW/Zother/mastermat/invis"
-			]
-		},
-		{
 			"ShaderMapHash": "C966A2628DF885336CBFEBAFCA3779DDB62CEB50",
 			"Assets": [
 				"/UGC4175674/gavkips_WaW/kar98/mat/black"
 			]
 		},
 		{
+			"ShaderMapHash": "7B8463E6219B04916842DDA45A137AD574992CDA",
+			"Assets": [
+				"/UGC4175674/gavkips_WaW/Zother/mastermat/invis"
+			]
+		},
+		{
 			"ShaderMapHash": "60212BDDC9C7E54DFEEB0AF2BCCEFD4C51393FFA",
 			"Assets": [
 				"/UGC4175674/gavkips_WaW/Flamethrower/VFX/Particle/Fire/flamethrowerRibbon"
+			]
+		},
+		{
+			"ShaderMapHash": "1E52F324F4FB3FF13C967F0CF78E34C7ECACA3CD",
+			"Assets": [
+				"/UGC4175674/gavkips_WaW/Zother/mastermat/extra-gav-guns"
 			]
 		},
 		{
@@ -38,10 +44,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "B0BEBCB129B01D7E4025E65139F5356FB4DE91F6",
+			"ShaderMapHash": "6564A14EC4F2CF0A2C4B006028E01B267BB56154",
 			"Assets": [
-				"/UGC4175674/gavkips_WaW/Zother/shell/mtl_fx_shotgun_shell",
-				"/UGC4175674/gavkips_WaW/Zother/shell/mtl_fx_shell"
+				"/UGC4175674/gavkips_WaW/Flamethrower/mat/FlamethrowerMat"
 			]
 		},
 		{
@@ -57,42 +62,22 @@
 			]
 		},
 		{
-			"ShaderMapHash": "6564A14EC4F2CF0A2C4B006028E01B267BB56154",
+			"ShaderMapHash": "B0BEBCB129B01D7E4025E65139F5356FB4DE91F6",
 			"Assets": [
-				"/UGC4175674/gavkips_WaW/Flamethrower/mat/FlamethrowerMat"
+				"/UGC4175674/gavkips_WaW/Zother/shell/mtl_fx_shotgun_shell",
+				"/UGC4175674/gavkips_WaW/Zother/shell/mtl_fx_shell"
 			]
 		},
 		{
-			"ShaderMapHash": "1E52F324F4FB3FF13C967F0CF78E34C7ECACA3CD",
+			"ShaderMapHash": "D7F7888E843A323EFE74F44F2D69A6FA73256710",
 			"Assets": [
-				"/UGC4175674/gavkips_WaW/Zother/mastermat/extra-gav-guns"
-			]
-		},
-		{
-			"ShaderMapHash": "C70C0A342DDF92433CA9724878B6198FAC0FDAE1",
-			"Assets": [
-				"/UGC4175674/Wbu_2nd_test",
-				"/UGC4175674/Aileta_test"
-			]
-		},
-		{
-			"ShaderMapHash": "E5B587252B941B298EAC44E76A3B97861463918C",
-			"Assets": [
-				"/UGC4175674/lever/power/mtl_zombie_power_lever",
-				"/UGC4175674/lever/power/mtl_char_jap_impinf_gore_limbs",
-				"/UGC4175674/lever/power/mtl_char_ger_headz1_1"
+				"/UGC4175674/standard-stuff/mtl_glass_v2_off"
 			]
 		},
 		{
 			"ShaderMapHash": "65112DC2986DA4C6C8931FEA94E2B85C9A8FC6BD",
 			"Assets": [
 				"/UGC4175674/lever/trap/zapper_mat"
-			]
-		},
-		{
-			"ShaderMapHash": "03EAA4A3D56AAAADED3A469714D44D8E1DBB5CF8",
-			"Assets": [
-				"/UGC4175674/lever/power/mtl_char_jap_impinf_gore_blend"
 			]
 		},
 		{
@@ -106,6 +91,20 @@
 			"ShaderMapHash": "D6087F333CC5D1D3592E8A8190117766D645F696",
 			"Assets": [
 				"/UGC4175674/lever/zipline/zipline_mat"
+			]
+		},
+		{
+			"ShaderMapHash": "E5B587252B941B298EAC44E76A3B97861463918C",
+			"Assets": [
+				"/UGC4175674/lever/power/mtl_zombie_power_lever",
+				"/UGC4175674/lever/power/mtl_char_jap_impinf_gore_limbs",
+				"/UGC4175674/lever/power/mtl_char_ger_headz1_1"
+			]
+		},
+		{
+			"ShaderMapHash": "03EAA4A3D56AAAADED3A469714D44D8E1DBB5CF8",
+			"Assets": [
+				"/UGC4175674/lever/power/mtl_char_jap_impinf_gore_blend"
 			]
 		},
 		{
@@ -135,9 +134,10 @@
 			]
 		},
 		{
-			"ShaderMapHash": "D7F7888E843A323EFE74F44F2D69A6FA73256710",
+			"ShaderMapHash": "C70C0A342DDF92433CA9724878B6198FAC0FDAE1",
 			"Assets": [
-				"/UGC4175674/standard-stuff/mtl_glass_v2_off"
+				"/UGC4175674/Wbu_2nd_test",
+				"/UGC4175674/Aileta_test"
 			]
 		},
 		{
